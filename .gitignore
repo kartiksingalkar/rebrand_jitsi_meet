@@ -1,0 +1,5 @@
+*.swp
+docker-compose.override.yml
+jitsi-meet-cfg/jibri/*
+jitsi-meet-cfg/prosody/*
+jitsi-meet-cfg/web/*

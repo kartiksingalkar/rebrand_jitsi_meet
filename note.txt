@@ -1,0 +1,6 @@
+required software
+
+git
+docker
+certbot
+
